@@ -1,5 +1,5 @@
 # New Project 
 This project was created from local system.
 
-created by Farhan Akhtar
+created by Farhan Akhtar.
 
